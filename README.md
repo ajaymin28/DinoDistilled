@@ -2,15 +2,11 @@
 
 This repository provides code and results for our experiments on distilling the zero-shot capabilities of foundation models (like DINOv1/v2) into compact student networks like EfficientNet and TinyViT.
 
----
 
 ## 🧠 Core Idea
 
 We explore how much *zero-shot knowledge* can be distilled from a powerful vision transformer (e.g., DINOv2) into smaller networks with minimal data. The distilled student models are tested on multiple datasets.
 
----
-
----
 
 ## Setup Env
 ```
@@ -26,7 +22,7 @@ https://www.kaggle.com/code/ajaymin28/dinoxray-test-acc-95-5/output
 https://www.kaggle.com/code/ajaymin28/dinoxraydistilled
 ```
 
-
+---
 
 ## 🧪 Experiments
 
